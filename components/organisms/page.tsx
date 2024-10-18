@@ -6,40 +6,40 @@ export default function Page() {
     <HeroParallax products={[{
        title: 'Product 1',
        link: '/product/1',
-       thumbnail: '/assets/zermatt-matterhorn-switzerland-shutterstock_1298208013_44fea015e5.jpeg', 
+       thumbnail: 'https://travelwarm.com/wp-content/uploads/2020/09/Zurich-Switzerland.jpg', 
     },
     {
       title: 'Product 1',
       link: '/product/1',
-      thumbnail: '/assets/Bern-scaled.jpg', 
+      thumbnail: 'https://media.timeout.com/images/101746923/image.jpg', 
    },{
     title: 'Product 1',
     link: '/product/1',
-    thumbnail: '/assets/ccimage-shutterstock_273787769.jpg', 
+    thumbnail: 'https://wallpaperaccess.com/full/4121070.jpg', 
  },{
   title: 'Product 1',
   link: '/product/1',
-  thumbnail: '/assets/ricardo-gomez-angel-Qgph3PrfOFY-unsplash-scaled.jpg', 
+  thumbnail: 'https://studyinginswitzerland.com/wp-content/uploads/2019/09/damian-markutt-eCkmZ7f8oWY-unsplash.jpg', 
 },{
   title: 'Product 1',
   link: '/product/1',
-  thumbnail: '/assets/towns-in-Switzerland-Lauterbrunnen.jpg', 
+  thumbnail: 'https://journeyz.co/wp-content/uploads/2020/08/Basel-2048x1365.jpg', 
 },{
   title: 'Product 1',
   link: '/product/1',
-  thumbnail: '/assets/Waterfall-in-Lauterbrunnen-village.jpg', 
+  thumbnail: 'https://i.pinimg.com/originals/ab/ea/46/abea46bbd4e0d32dc5c55785437af3dd.jpg', 
 },{
   title: 'Product 1',
   link: '/product/1',
-  thumbnail: '/assets/zermatt-matterhorn-switzerland-shutterstock_1298208013_44fea015e5.jpeg', 
+  thumbnail: 'https://handluggageonly.co.uk/wp-content/uploads/2014/10/Hand-Luggage-Only-2.jpg', 
 },{
   title: 'Product 1',
   link: '/product/1',
-  thumbnail: '/assets/zermatt-switzerland-aerial_SKITOWN0123-0df880426acd494c9d8791be79b07494.jpg', 
+  thumbnail: 'https://a.cdn-hotels.com/gdcs/production125/d882/347f73d7-bd57-44cf-b3fa-0837c96cb193.jpg', 
 },{
   title: 'Product 1',
   link: '/product/1',
-  thumbnail: '/assets/zermatt-matterhorn-switzerland-shutterstock_1298208013_44fea015e5.jpeg', 
+  thumbnail: 'https://wallpaperaccess.com/full/1455072.jpg', 
 }]}></HeroParallax>
     </>
   )

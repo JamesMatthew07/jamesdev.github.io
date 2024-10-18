@@ -6,7 +6,6 @@ import {
   useSpring,
   useTransform,
 } from "framer-motion";
-import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
@@ -141,7 +140,7 @@ export const ProductCard = ({
         href={product.link}
         className="block group-hover/product:shadow-2xl "
       >
-        <Image
+        <img
           src={product.thumbnail}
           height="600"
           width="600"
@@ -156,5 +155,6 @@ export const ProductCard = ({
     </motion.div>
   );
 };
+
 
 export default HeroParallax
